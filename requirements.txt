@@ -1,0 +1,3 @@
+cnocr
+pylibdmtx
+pyzbar
